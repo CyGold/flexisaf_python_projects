@@ -1,0 +1,3 @@
+Create a Python program that calculates and reports student scores using advanced function parameters, unpacking, and variable scopes. Write a function that can accept a flexible number of scores using *args, and optionally accept settings like weight or bonus using **kwargs. In your main code, pass scores using tuples/lists (with unpacking) and configuration options using dictionaries (also unpacked into the function).
+
+*args allows a function to accept multiple positional arguments as a tuple, while **kwargs allows a function to accept optional named arguments as a dictionary. Unpacking (* and **) is used to pass lists, tuples, and dictionaries into functions. Global variables are defined outside functions, while local variables exist only inside functions.
