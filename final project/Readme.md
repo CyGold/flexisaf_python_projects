@@ -14,7 +14,7 @@ change directory
 ```
 cd final project
 ```
-Run the code
+Run the script
 ```
 python3 main.py
 ```
